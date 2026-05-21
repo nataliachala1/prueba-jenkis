@@ -6,6 +6,6 @@ class CrudbasicApplicationTests {
 
     @Test
     void contextLoads() {
-        assert true;
+        assert true
     }
 }
